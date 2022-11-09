@@ -7,3 +7,7 @@ Dynamically-allocated C++ integers with finite but arbitrarily large size
 - Comparators
 - Input (for up to long long values)
 - Output (for up to long long values)
+
+## To Implement
+- Multiplication
+- Division
